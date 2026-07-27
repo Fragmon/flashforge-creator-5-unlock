@@ -4,7 +4,7 @@ Root access and quality-of-life mods for the FlashForge C5 / Adventurer 5 series
 
 ## Credits
 
-All of the research, scripts and mods documented here are the work of **ano** ([ano.space](https://ano.space)) on Discord. This repository is only a write-up of their findings — full credit goes to them.
+All of the research, scripts and mods documented here are the work of **ano** [ano.space] on Discord. This repository is only a write-up of their findings — full credit goes to them.
 
 > [!WARNING]
 > Everything here modifies your printer's firmware and voids your warranty. You are responsible for your own machine. Read a section fully before running any of it.

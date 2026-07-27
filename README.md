@@ -1,10 +1,28 @@
 # FlashForge Adventurer 5 Series — Root & Mods
 
+<div align="center">
+
+### ⭐ All credit goes to **ano** — `ano.space` on Discord ⭐
+
+**Every script, mod and piece of research documented here is their work.**
+This repository is nothing more than a write-up of their findings.
+
+</div>
+
+---
+
 Root access and quality-of-life mods for the FlashForge C5 / Adventurer 5 series (Klipper-based firmware).
 
-## Credits
+## Why this repository exists
 
-All of the research, scripts and mods documented here are the work of **ano** (`ano.space` on Discord). This repository is only a write-up of their findings — full credit goes to them.
+All of this knowledge currently lives in a Discord server. That works well for the people already in it, but it leaves everyone else out:
+
+- **Discord is not for everyone.** Plenty of people don't have an account, don't want one, or can't use the platform at all.
+- **Nothing there is searchable.** Discord is invisible to search engines, so someone looking for "FlashForge C5 root" will never find the answer, no matter how often it has been posted.
+- **Chat scrolls away.** Instructions get split across dozens of messages and buried over time. A newcomer has to piece the procedure back together from fragments.
+- **No version history.** When a script changes, the old message is edited or replaced. Here you can see what changed and when.
+
+So this repository is simply the same information written down in one place, readable by anyone, with no account required.
 
 > [!WARNING]
 > Everything here modifies your printer's firmware and voids your warranty. You are responsible for your own machine. Read a section fully before running any of it.
@@ -16,6 +34,7 @@ All of the research, scripts and mods documented here are the work of **ano** (`
 
 ## Table of contents
 
+- [Why this repository exists](#why-this-repository-exists)
 - [Getting root](#getting-root)
 - [Kernel patch: legacy NaN binaries](#kernel-patch-legacy-nan-binaries)
 - [Adaptive bed meshing](#adaptive-bed-meshing)

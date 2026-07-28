@@ -1,4 +1,4 @@
-# FlashForge Adventurer 5 Series — Root & Mods
+# FlashForge Creator 5 Series — Root & Mods
 
 <div align="center">
 

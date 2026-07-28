@@ -11,7 +11,7 @@ This repository is nothing more than a write-up of their findings.
 
 ---
 
-Root access and quality-of-life mods for the FlashForge C5 / Adventurer 5 series (Klipper-based firmware).
+Root access and quality-of-life mods for the FlashForge C5 series (Klipper-based firmware).
 
 ## Why this repository exists
 
